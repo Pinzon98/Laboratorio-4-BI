@@ -17,6 +17,6 @@
 - 3. Correr el programa de la aplicación con el siguiente comando: uvicorn --port 5000 --host 127.0.0.1 main:app --reload (Ambos sistemas operativos)
 
 ### URL
-[Documentación y Endpoints](https://lab-bi.herokuapp.com/docs)
-[Link1](https://lab-bi.herokuapp.com/predict)
-[Link2](https://lab-bi.herokuapp.com/predictionPunto2)
+- [Documentación y Endpoints](https://lab-bi.herokuapp.com/docs)
+- [Link1](https://lab-bi.herokuapp.com/predict)
+- [Link2](https://lab-bi.herokuapp.com/predictionPunto2)
